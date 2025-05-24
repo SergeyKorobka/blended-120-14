@@ -140,6 +140,8 @@ button {
 }
 
 .header-nav-link {
+  display: block;
+  padding: 26px 0;
   line-height: 1.75;
 }
 
